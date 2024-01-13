@@ -1,8 +1,8 @@
 {
   "importMap": "import_map.json",
   "tasks": {
-    "build": "silverbullet plug:compile extraEmbed.plug.yaml",
-    "watch": "silverbullet plug:compile extraEmbed.plug.yaml -w"
+    "build": "silverbullet plug:compile ./extraEmbed.plug.yaml",
+    "watch": "silverbullet plug:compile ./extraEmbed.plug.yaml -w"
   },
   "lint": {
     "rules": {
