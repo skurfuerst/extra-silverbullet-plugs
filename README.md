@@ -1,5 +1,5 @@
 
-# SilverBullet plug template
+# SilverBullet plug: HTML
 
 Insert your plug description here
 

@@ -1,0 +1,5 @@
+name: extraEmbed
+functions:
+  htmlEmbed:
+    path: ./src/htmlEmbed.ts:htmlEmbed
+    codeWidget: htmlembed
